@@ -1,0 +1,14 @@
+{
+  "name": "pagepulse",
+  "version": "1.0.0",
+  "description": "Instant website report card — beautiful security & tech analysis",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "cors": "^2.8.5"
+  }
+}
